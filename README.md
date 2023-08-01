@@ -9,7 +9,10 @@
 
 - TUNE IN AT EXCEL PUBLIC SCHOOL MYSORE,
    August 19th
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXPlxVsAa84PLvSauiRE4TjcLVG8Ya9VeyHfTQzZFMvw&s">
+
+
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXPlxVsAa84PLvSauiRE4TjcLVG8Ya9VeyHfTQzZFMvw&s">
 
 <!---
 A-jarvis-cool/A-jarvis-cool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
